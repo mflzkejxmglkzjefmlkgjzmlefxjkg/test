@@ -1182,10 +1182,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci25nrt5f2e94bfrw2sclq6dp<svg/onload=alert(document.domain)>",
-        "title": "Paris - CloudFlare<img src=x>",
-        "description": "Edge Location<script>confirm()</script>",
-        "marker-size": "medium",
+        "id": "ci25nrt5f2e94bfrw2sclq6dp",
+        "title": "Paris - CloudFlare",
+        "description": "Edge Location",
+        "marker-size": "mediummm",
         "marker-color": "#FFE900",
         "marker-symbol": "circle"
       },
