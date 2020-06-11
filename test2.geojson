@@ -13,7 +13,7 @@
     }, {
         "type": "Feature",
         "geometry": {
-            "type": "LineString",
+            "type": "LineStringazer",
             "coordinates": [[0, 0], [10, 10]]
         },
         "properties": {
