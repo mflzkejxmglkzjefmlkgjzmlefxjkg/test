@@ -8,8 +8,8 @@
         "title": "Paris - CloudFlare",
         "description": "Edge Location",
         "marker-size": "medium",
-        "marker-color": "#FFE900\" ${{7*7}} onerror=alert(1)//",
-        "marker-symbol": "circle"
+        "marker-color": "#FFE900",
+        "marker-symbol": "circleazer"
       },
       "geometry": {
         "coordinates": [
