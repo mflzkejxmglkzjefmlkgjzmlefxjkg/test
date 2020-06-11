@@ -19,7 +19,7 @@
         "properties": {
             "stroke": "#f0f0f0azer\"' test=\"'a'",
             "stroke-opacity": "'123azer\"' azer=\"'a",
-            "stroke-width": 2+azer+azer
+            "stroke-width": '2+azer+azer'
         }
     }]
 }
