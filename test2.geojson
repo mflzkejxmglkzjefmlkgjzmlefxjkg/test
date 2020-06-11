@@ -20,6 +20,9 @@
             "stroke": "#f0f0f0azer\"' test=\"'a'",
             "stroke-opacity": "'123azer\"' azer=\"'a",
             "stroke-width": "+alert(1)+javascript:alert(1)+"
+            "script": {
+                "azer": "azer"
+            }
         }
     }]
 }
