@@ -1183,7 +1183,7 @@
       "type": "Feature",
       "properties": {
         "id": "ci25nrt5f2e94bfrw2sclq6dp",
-        "title": "Paris - CloudFlare",
+        "title": "Paris - CloudFlare<h1>test</h1>",
         "description": "Edge Location",
         "marker-size": "medium",
         "marker-color": "#FFE900",
