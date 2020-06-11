@@ -9,7 +9,7 @@
             "marker-size": "medium",
             "marker-symbol": "bus",
             "marker-color": "#ace'\"azer",
-            "size": 1234
+            "filter": "1234"
         }
     }, {
         "type": "Feature",
