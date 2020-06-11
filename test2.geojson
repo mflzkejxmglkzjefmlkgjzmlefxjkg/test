@@ -21,7 +21,8 @@
             "stroke-opacity": "'123azer\"' azer=\"'a",
             "stroke-width": "+alert(1)+javascript:alert(1)+",
             "stroke-linecap": "azer%22%27",
-            "fill": "testazer"
+            "fill": "testazer",
+            "class": "qsdf"
         }
     }]
 }
