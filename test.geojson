@@ -10,7 +10,7 @@
         "description": "Edge Location<a href=\"javascript:alert(11);\">Back</a>",
         "marker-size": "medium",
         "marker-color": "#FFE900",
-        "marker-class": "azer",
+        "class": "azer",
         "marker-symbol": "circle"
       },
       "geometry": {
