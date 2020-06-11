@@ -1185,9 +1185,9 @@
         "id": "ci25nrt5f2e94bfrw2sclq6dp",
         "title": "Paris - CloudFlare",
         "description": "Edge Location<svg/onload=alert(document.domain)>",
-        "marker-size": "mediumazer",
-        "marker-color": "#FFE900azer",
-        "marker-symbol": "circleazer"
+        "marker-size": "medium",
+        "marker-color": "#FFE900",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "coordinates": [
