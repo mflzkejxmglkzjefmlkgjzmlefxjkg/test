@@ -1,6 +1,5 @@
 {
     "type": "FeatureCollection",
-    "title": "wxcv",
     "features": [{ "type": "Feature",
         "geometry": {
             "type": "Point",
