@@ -17,9 +17,9 @@
             "coordinates": [[0, 0], [10, 10]]
         },
         "properties": {
-            "stroke": "#f0f0f0azer\" test=\"a",
-            "stroke-opacity": "123azer\" azer=\"a",
-            "stroke-width": "2, azer=azer"
+            "stroke": "#f0f0f0azer\"' test=\"'a'",
+            "stroke-opacity": "'123azer\"' azer=\"'a",
+            "stroke-width": 2 azer=azer
         }
     }]
 }
