@@ -8,12 +8,12 @@
         "properties": {
             "marker-size": "medium",
             "marker-symbol": "bus",
-            "marker-color": "#ace"
+            "marker-color": "#ace%22%27"
         }
     }, {
         "type": "Feature",
         "geometry": {
-            "type": "LineStringazer",
+            "type": "LineString",
             "coordinates": [[0, 0], [10, 10]]
         },
         "properties": {
