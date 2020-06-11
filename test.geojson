@@ -10,12 +10,12 @@
         "description": "Edge Location<a href=\"javascript:alert(11);\">Back</a>",
         "marker-size": "medium",
         "marker-color": "#FFE900",
-        "class": "azer",
+        "class": "<a href=data:text/html,%3Cscript%3Ealert%28666%29%3C/script%3E>xss</a>",
         "marker-symbol": "circle"
       },
       "geometry": {
         "coordinates": [
-          2.340087',
+          2.340087,
           48.864714
         ],
         "type": "Point"
