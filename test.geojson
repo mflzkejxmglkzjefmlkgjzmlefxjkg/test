@@ -14,7 +14,7 @@
         "marker-symbol": "circle"
       },
       "style": {
-        "__comment": "all SVG styles allowed",
+        "__comment": "all SVG styles allowedazer",
         "fill":"red",
         "stroke-width":"3",
         "fill-opacity":0.6
